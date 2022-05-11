@@ -198,7 +198,7 @@
   "twitter-oauth-modal.connect-button": "Twitterに接続",
   "twitter-oauth-modal.message": "Twitterに接続して,{appName}からツイートを送信してください。",
   "ui-root.interstitial-prompt": "続行",
-  "avatar-editor.advanced-section": "高度",
+  "avatar-editor.advanced-section": "詳細設定",
   "avatar-editor.custom-avatar-option": "カスタムGLB…",
   "avatar-editor.delete-avatar-button": "アバター削除",
   "avatar-editor.delete-avatar.cancel": "いいえ",
@@ -564,5 +564,6 @@
   "preferences-screen.preference.enable-on-screen-joystick-left": "画面上の左側のジョイスティックで移動できるようにする",
   "preferences-screen.preference.allow-multiple-hubs-instances": "複数のハブインスタンスが開いているときに自動終了を無効にする",
   "preferences-screen.preference.fast-room-switching": "部屋の高速切り替えを有効にする",
-  "preferences-screen.preference.lazy-load-scene-media": "シーンメディアの遅延読み込みを有効にする"
+  "preferences-screen.preference.lazy-load-scene-media": "シーンメディアの遅延読み込みを有効にする",
+  "sign-in-button": "サインイン/サインアップ"
 }
